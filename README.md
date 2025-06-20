@@ -1,28 +1,7 @@
-<h1>Olá! Me chamo Lucas, atualmente curso Análise e Desenvolvimento de Sistemas, me conheça melhor por meio deste perfil!</h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OHenriqueDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OHenriqueDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
-</div>
-<br>
-
-
-
-<br clear="both">
-
+<p align="left">👋 Olá! Me chamo Lucas e atualmente curso Análise e Desenvolvimento de Sistemas. Me conheça melhor por este perfil 🚀</p>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=OHenriqueDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OHenriqueDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> </div>
+<p align="left">💻 Atualmente estou me dedicando ao estudo de desenvolvimento Frontend e Backend, com o objetivo de me tornar um Desenvolvedor Full Stack. Estou adquirindo conhecimentos em HTML, CSS, JavaScript, além de explorar frameworks e bibliotecas modernas no Frontend ⚙️. No Backend, estou me aprofundando em lógica de programação, APIs e bancos de dados, buscando uma formação completa para atuar em todas as etapas do desenvolvimento de aplicações web 🌐.</p>
+<p align="left">🛠️ Linguagens de Programação e Frameworks que tenho familiaridade:</p>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /> C++ <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> Python <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> HTML5 <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /> CSS3 <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> JavaScript <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> TypeScript <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> React </div>
+<p align="left">📈 Estou sempre buscando novos desafios e aprendizados para evoluir minhas habilidades e contribuir com soluções criativas no mundo da tecnologia 🚀.</p>
+<div align="left"> <img src="https://profile-counter.glitch.me/OHenriqueDev/count.svg?" /> </div>
